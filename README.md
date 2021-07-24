@@ -17,7 +17,7 @@ Time spent: **15** hours spent in total
 
 Here's a walkthrough of how the app functions:
 
-<img src='https://recordit.co/gDshKtGVBO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/uFlL0K3CPh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co).
 
